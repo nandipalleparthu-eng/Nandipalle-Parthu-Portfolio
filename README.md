@@ -5,7 +5,6 @@
 A modern, interactive personal portfolio showcasing my skills, projects, achievements, and certifications. Designed with premium UI/UX and smooth animations.
 
 ---
-
 ## 🚀 Live Website
 *(Add deployment link later)*
 
