@@ -6,7 +6,7 @@ A modern, interactive personal portfolio showcasing my skills, projects, achieve
 
 ---
 ## 🚀 Live Website
-*(Add deployment link later)*
+https://698b3107b1c4c4224138db2b--astonishing-strudel-90dcf3.netlify.app/
 
 ---
 
